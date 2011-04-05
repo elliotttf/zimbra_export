@@ -1,0 +1,7 @@
+Use this script to export full zimbra mailboxes. Zimbra mailboxes
+include messages, contacts, and calendars.
+
+The script requires the pycurl and argparse python libraries to run.
+
+Run the script as follows:
+./zimbra_export -u USERNAME [-p PASSWORD]
